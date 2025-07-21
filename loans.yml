@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loans Service related local APIs"
+  contactDetails:
+    name: "Shivam The Senior Developer"
+    email: "shivamvashisth020@gmail.com"
+  onCallSupport:
+    - "1234567890"
+    - "1234567890"
