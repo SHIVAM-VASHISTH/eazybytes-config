@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards Service related production APIs"
+  message: "Welcome to EazyBank Cards Service related Webhook APIs"
   contactDetails:
     name: "Shivam The Senior Developer"
     email: "shivamvashisth020@gmail.com"
